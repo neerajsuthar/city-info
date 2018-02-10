@@ -1,0 +1,15 @@
+com\sampleapi\weather\datafetcher\YahooWeatherInfoFetcher.class
+com\sampleapi\weather\entities\WeatherData.class
+com\sampleapi\weather\entities\Results.class
+com\sampleapi\weather\datafetcher\WeatherInfoFetcher.class
+com\sampleapi\news\entities\Item.class
+com\sampleapi\news\datafetcher\NewsFetcher.class
+com\sampleapi\news\entities\Channel.class
+com\sampleapi\exception\FetcherBaseException.class
+com\sampleapi\weather\entities\Condition.class
+com\sampleapi\weather\entities\Query.class
+com\sampleapi\news\entities\NewsData.class
+com\sampleapi\news\datafetcher\ToiNewsFetcher.class
+com\sampleapi\exception\FetcherConnectionException.class
+com\sampleapi\weather\entities\Channel.class
+com\sampleapi\weather\entities\Item.class

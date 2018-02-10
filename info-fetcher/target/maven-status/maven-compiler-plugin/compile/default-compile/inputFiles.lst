@@ -1,0 +1,15 @@
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\news\entities\Item.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\news\entities\Channel.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\entities\WeatherData.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\news\datafetcher\NewsFetcher.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\news\entities\NewsData.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\entities\Item.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\entities\Results.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\news\datafetcher\ToiNewsFetcher.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\datafetcher\YahooWeatherInfoFetcher.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\entities\Channel.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\entities\Query.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\exception\FetcherBaseException.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\entities\Condition.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\exception\FetcherConnectionException.java
+C:\workspaceCognito\info-fetcher\src\main\java\com\sampleapi\weather\datafetcher\WeatherInfoFetcher.java
